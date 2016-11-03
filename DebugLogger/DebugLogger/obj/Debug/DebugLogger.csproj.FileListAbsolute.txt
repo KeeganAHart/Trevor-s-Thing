@@ -1,0 +1,1 @@
+C:\source\trevorproject\DebugLogger\DebugLogger\bin\Debug\DebugLogger.exe.config
